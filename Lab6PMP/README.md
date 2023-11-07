@@ -1,0 +1,2 @@
+Cred ca Y are ca scop estimarea cat mai reala a lui n cu ajutorilor valorilor lui. Cu cat Y va avea mai multe date astfel distributia noastra va avea o precizie mai mare
+Teta reprezinta probabilitatea ca un client sa cumpere produsul, astfel cu cat probabilitatea ca un client sa cumpere produsul e mai mare si distributia a posteriori prin urmare devine mai precisa si face o precizare mai buna. Cu cat probabilitatea ca produsul sa fie cumparat creste cu atat creste si numarul de clienti care cumpara acel produs
